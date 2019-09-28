@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Don Smith
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Don Smith
+subheading: Coming back to the breath
 mainpitch:
   title: Why Kaldi
   description: >
