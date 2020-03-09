@@ -16,7 +16,7 @@
     "gatsby-remark-copy-linked-files": "^2.1.38",
     "gatsby-remark-images": "^3.1.45",
     "gatsby-remark-relative-images": "^0.3.0",
-    "gatsby-source-filesystem": "^2.1.49",
+    "gatsby-source-filesystem": "^2.1.50",
     "gatsby-transformer-remark": "^2.6.54",
     "gatsby-transformer-sharp": "^2.3.17",
     "lodash": "^4.17.15",
