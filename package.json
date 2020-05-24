@@ -49,7 +49,7 @@
     "prepare": "yarn run snyk-protect"
   },
   "devDependencies": {
-    "prettier": "^2.0.4"
+    "prettier": "^2.0.5"
   },
   "snyk": true
 }
