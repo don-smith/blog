@@ -11216,9 +11216,9 @@ mkdirp@^1.0.3:
   integrity sha512-6uCP4Qc0sWsgMLy1EOqqS/3rjDHOEnsStVr/4vtAIK2Y5i2kA7lFFejYrpIyiN9w0pYf4ckeCYT9f1r1P9KX5g==
 
 moment@^2.24.0, moment@^2.25.3:
-  version "2.26.0"
-  resolved "https://registry.yarnpkg.com/moment/-/moment-2.26.0.tgz#5e1f82c6bafca6e83e808b30c8705eed0dcbd39a"
-  integrity sha512-oIixUO+OamkUkwjhAVE18rAMfRJNsNe/Stid/gwHSOfHrOtw9EhAY2AHvdKZ/k/MggcYELFCJz/Sn2pL8b8JMw==
+  version "2.29.2"
+  resolved "https://registry.yarnpkg.com/moment/-/moment-2.29.2.tgz#00910c60b20843bcba52d37d58c628b47b1f20e4"
+  integrity sha512-UgzG4rvxYpN15jgCmVJwac49h9ly9NurikMWGPdVxm8GZD6XjkKPxDTjQQ43gtGgnV3X0cAyWDdP2Wexoquifg==
 
 monaco-editor@^0.16.0:
   version "0.16.2"
@@ -15584,6 +15584,11 @@ snapdragon@^0.8.1:
     source-map "^0.5.6"
     source-map-resolve "^0.5.0"
     use "^3.1.0"
+
+snyk@^1.324.0:
+  version "1.900.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.900.0.tgz#238df5e213744ef9ebefd4d2c67b9b918b0acdbc"
+  integrity sha512-YtfMjE9hp+ZOGcdfg0qNNdofcwZz99WHShjMOt9pS6uWF3kCwyFExR+jac8j3R5oLWa5wHOUEMNDkBRtoXqzIg==
 
 socket.io-adapter@~1.1.0:
   version "1.1.1"
