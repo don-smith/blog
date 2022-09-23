@@ -1,5 +1,5 @@
 # Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
-version: v1.14.1
+version: v1.25.0
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
@@ -26,3 +26,215 @@ patch:
         patched: '2020-05-23T23:54:25.779Z'
     - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
         patched: '2020-05-23T23:54:25.779Z'
+    - gatsby > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-plugin-netlify > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-plugin-netlify-cms > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-plugin-sharp > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-remark-copy-linked-files > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-remark-images > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-remark-relative-images > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-transformer-remark > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - lodash-webpack-plugin > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - node-sass > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > @babel/core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/generator > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > css-loader > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > devcert > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > eslint > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > eslint-plugin-flowtype > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > eslint-plugin-graphql > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-telemetry > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-plugin-page-creator > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-plugin-sharp > async > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > webpack-merge > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-plugin-netlify-cms > html-webpack-plugin > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-remark-copy-linked-files > cheerio > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-remark-images > cheerio > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-remark-relative-images > cheerio > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby-remark-relative-images > deep-map > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - node-sass > sass-graph > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > @typescript-eslint/parser > @typescript-eslint/typescript-estree > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/preset-env > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-eslint > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > eslint > inquirer > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > eslint > table > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > eslint-plugin-graphql > graphql-config > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-telemetry > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-plugin-page-creator > gatsby-page-utils > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > optimize-css-assets-webpack-plugin > last-call-webpack-plugin > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > react-dev-utils > inquirer > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > webpack-dev-server > http-proxy-middleware > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > netlify-cms-widget-markdown > slate > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > netlify-cms-widget-markdown > slate-react > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - node-sass > gaze > globule > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > babylon-walk > babel-types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > htmlnano > uncss > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > @typescript-eslint/parser > @typescript-eslint/experimental-utils > @typescript-eslint/typescript-estree > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/preset-env > @babel/plugin-transform-classes > @babel/helper-define-map > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/generator > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-block-scoping > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @babel/core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > yurnalist > inquirer > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > eslint-plugin-graphql > graphql-config > graphql-import > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > gatsby-telemetry > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > webpack-dev-server > portfinder > async > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > netlify-cms-core > redux-notifications > react-redux > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/preset-env > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/mdx > @babel/core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/preset-modules > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > import-jsx > @babel/core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > @emotion/styled > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/preset-env > @babel/plugin-transform-parameters > @babel/helper-call-delegate > @babel/helper-hoist-variables > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > @babel/core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > import-jsx > @babel/core > @babel/helper-module-transforms > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-unicode-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-eslint > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/mdx > remark-mdx > @babel/core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > @emotion/core > @emotion/css > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > htmlnano > uncss > jsdom > request-promise-native > request-promise-core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > @babel/core > @babel/helper-module-transforms > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > import-jsx > @babel/core > @babel/helpers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/preset-modules > @babel/plugin-transform-dotall-regex > @babel/helper-create-regexp-features-plugin > @babel/helper-regex > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > netlify-cms-widget-code > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > netlify-cms-widget-markdown > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > netlify-cms-widget-relation > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - netlify-cms-app > netlify-cms-widget-select > react-select > emotion > babel-plugin-emotion > @babel/helper-module-imports > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > @babel/core > @babel/helpers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > import-jsx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/preset-env > @babel/plugin-transform-async-to-generator > @babel/helper-remap-async-to-generator > @babel/helper-wrap-function > @babel/helper-function-name > @babel/helper-get-function-arity > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helpers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > import-jsx > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helpers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - parcel-bundler > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > import-jsx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > babel-preset-gatsby > @babel/preset-env > @babel/plugin-transform-exponentiation-operator > @babel/helper-builder-binary-assignment-operator-visitor > @babel/helper-explode-assignable-expression > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helpers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > import-jsx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/template > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
+    - gatsby > gatsby-cli > gatsby-recipes > @mdx-js/runtime > @mdx-js/mdx > remark-mdx > @babel/core > @babel/helper-module-transforms > @babel/helper-replace-supers > @babel/traverse > @babel/helper-function-name > @babel/types > lodash:
+        patched: '2022-09-23T06:52:04.676Z'
