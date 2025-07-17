@@ -1,11 +1,13 @@
-baseURL = 'https://your-blog.github.io'
+baseURL = '/'
 languageCode = 'en-us'
-title = 'My Blog'
+title = 'a2a.dons.dev'
 theme = 'paper'
+relativeURLs = false
+canonifyURLs = true
 
 [params]
-  description = "A blog built with Hugo and Docker"
-  author = "Your Name"
+  description = "Assistant to Agentic: A learning journey"
+  author = "Don Smith"
 
 [markup]
   [markup.goldmark]

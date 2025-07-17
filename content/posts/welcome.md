@@ -23,7 +23,7 @@ To start the development server:
 docker-compose up hugo
 ```
 
-Then visit [http://localhost:1313](http://localhost:1313) to see your blog!
+Then visit your blog at the local development URL!
 
 ## Writing Posts
 
