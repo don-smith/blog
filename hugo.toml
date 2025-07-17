@@ -1,12 +1,12 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'a2a.dons.dev'
+title = 'dons.dev'
 theme = 'paper'
 relativeURLs = false
 canonifyURLs = true
 
 [params]
-  description = "Assistant to Agentic: A learning journey"
+  description = "Thoughts from a guy in tech"
   author = "Don Smith"
 
 [markup]

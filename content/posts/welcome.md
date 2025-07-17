@@ -1,32 +1,15 @@
 ---
-title: "Welcome to My Blog"
+title: "Kia ora"
 date: 2025-07-17T10:00:00-07:00
 draft: false
-tags: ["welcome", "introduction"]
 categories: ["general"]
 ---
 
-# Welcome to My Blog
+It feels funny to be doing this again. I can't count the number of times I've set up a new blog. Sometimes I even import older entries. I haven't decided if I'm going to do that here yet.
 
-This is my first blog post using Hugo with Docker! This setup provides:
+But strangely enough I realised I had some thoughts to share again. There are huge changes happening in software development at the moment. I fell in love with writing software pretty quickly. And I've spent a lot of time over the past few decades focused on the developer experience and the learning/teaching experience.
 
-- **Real-time preview** with live reload
-- **Docker containerization** for consistent environments
-- **Volume mapping** for seamless editing
-- **GitHub Actions** for automated deployment
+With the current use of AI, it's clear we're in changing times, and my curiosity meter is in the red. I have so many questions and experiments to run. I think I've spent enough time over the past year to take others on a learning journey - the learning journey I've designed for myself.
 
-## Getting Started
+I think it's unique, and I think it has the potential to setup attendees for being resilient and flexible in the changes that are inevidably coming.
 
-To start the development server:
-
-```bash
-docker-compose up hugo
-```
-
-Then visit your blog at the local development URL!
-
-## Writing Posts
-
-Create new posts in the `content/posts/` directory using markdown format. Hugo will automatically detect changes and reload the browser.
-
-Happy blogging! 🚀
