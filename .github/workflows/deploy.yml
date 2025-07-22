@@ -32,21 +32,9 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: 'latest'
-          extended: true
-
-      - name: Build with Hugo
-        env:
-          HUGO_ENVIRONMENT: production
-          HUGO_ENV: production
+      - name: Build with Docker
         run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          docker-compose -f docker-compose.prod.yml run --rm hugo-build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

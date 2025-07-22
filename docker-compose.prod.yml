@@ -1,0 +1,17 @@
+---
+services:
+  hugo-build:
+    image: klakegg/hugo:ext-alpine
+    command: --minify --gc --baseURL https://dons.dev
+    volumes:
+      - .:/src
+    environment:
+      - HUGO_ENVIRONMENT=production  
+      - HUGO_ENV=production
+    working_dir: /src
+    networks:
+      - blog-network
+
+networks:
+  blog-network:
+    driver: bridge
