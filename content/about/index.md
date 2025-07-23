@@ -6,7 +6,7 @@ draft: false
 
 Hi, I'm Don.
 
-Me? Oh, uh ... I really like software. I've been a dev since the mid-90s and have worked for some of the largest and smallest software companies in the world. Today I am consulting, teaching, and building cool stuff with my friends at [HYPR](https://hypr.nz/). We've built a 9-week course for professional software developers on how we think they should approach and track AI software development tools and technologies. In addition to building applications, sometimes I make music with Supercollider and Strudel. Algorthmic visuals with Hydra is fun too.
+I really like software. I've been a dev since the mid-90s and have worked for some of the largest and smallest software companies in the world. Today I am consulting, teaching, and building cool stuff with my friends at [HYPR](https://hypr.nz/). We've built a 9-week course for professional software developers on how we think they should approach and track AI software development tools and technologies. In addition to building applications, sometimes I make music with Supercollider and Strudel. Algorthmic visuals with Hydra is fun too.
 
 I'm originally from America (FL), but after living in Europe (NL) and the US (TX, OH, NC, WA) I moved to New Zealand about 14 years ago and am all done moving around now. I live in a relatively new cohousing community (talk about a learning journey!) in Golden Bay, an actual paradise. 
 
