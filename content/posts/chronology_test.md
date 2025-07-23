@@ -1,6 +1,6 @@
 ---
 title: "Chronology Test"
-date: 2025-07-23T10:00:00-07:00
+date: 2025-07-23T10:00:00+12:00
 draft: false
 categories: ["general"]
 ---

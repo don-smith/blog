@@ -1,6 +1,6 @@
 ---
 title: "Really? Again!?"
-date: 2025-07-17T10:00:00-07:00
+date: 2025-07-17T10:00:00+12:00
 draft: false
 categories: ["general"]
 ---
