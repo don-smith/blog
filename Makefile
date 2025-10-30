@@ -6,9 +6,6 @@ dev: ## Start development server with live reload
 build: ## Build static site for production (same as build-prod)
 	docker-compose -f docker-compose.prod.yml run --rm hugo-build
 
-build-prod: ## Build static site for production with custom domain
-	docker-compose -f docker-compose.prod.yml run --rm hugo-build
-
 clean: ## Clean generated files
 	rm -rf public resources
 
