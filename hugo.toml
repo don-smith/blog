@@ -4,6 +4,7 @@ title = 'dons.dev'
 theme = 'paper'
 relativeURLs = false
 canonifyURLs = true
+timeZone = 'Pacific/Auckland'
 
 [params]
   description = "Thoughts from a guy in tech and communities"
